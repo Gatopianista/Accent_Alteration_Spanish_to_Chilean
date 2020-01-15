@@ -9,8 +9,8 @@ El código consta de dos carpetas principales:
 Audio_Process:
 En esta carpeta se encuentran las librerías encargadas del preprocesado de los audios. 
 * audioprocessor.py - Son las funciones creadas para tratar la señal y obtener las propiedades de esta.
-* data manager.py - Hace uso de las funciones de audioprocessor.py para aplicarlas de manera masiva a todo slos archivos de audio. También   normaliza los datos
-* data_main.py - Es un progrmaa donde se configuran los hiperparámetros necesarios y crea y guarda los arrays listos para ser introducidos a la red 
+* data manager.py - Hace uso de las funciones de audioprocessor.py para aplicarlas de manera masiva a todos los archivos de audio. También   normaliza los datos
+* data_main.py - Es un programa donde se configuran los hiperparámetros necesarios y crea y guarda los arrays listos para ser introducidos a la red 
 
 Neural_Network:
 En esta carpeta se configura, entrena y testea la red.
