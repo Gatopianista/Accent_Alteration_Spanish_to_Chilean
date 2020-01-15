@@ -2,6 +2,8 @@
 
 Este proyecto consiste en la alteración del acento hispanohablante mediante la modificación de los Coeficientes epstrales de la Frecuencia de Mel (MFCCs). Para ello se hipotetiza que una red neuronal de tipo Feed Forward Neural Network.
 
+ ![Repo List](Images/estructura_NN.png)
+
 El código consta de dos carpetas principales:
 
 Audio_Process:
